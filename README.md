@@ -1,4 +1,5 @@
 # Baseline and Enhanced Machine Learning Models for Coronary Heart Disease Prediction
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17073723.svg)](https://doi.org/10.5281/zenodo.17073723)
 
 This repository contains the Python code used in the study:
 
@@ -73,8 +74,7 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 ## 📌 Citation
 If you use this code, please cite our study:
 
-> Wanyonyi et al. (2025). *Baseline and Enhanced Machine Learning Models for Coronary Heart Disease Prediction*. PLOS ONE. DOI: [Zenodo DOI will go here].
-
+> Wanyonyi et al. (2025). *Baseline and Enhanced Machine Learning Models for Coronary Heart Disease Prediction*. DOI: [https://doi.org/10.5281/zenodo.17073723](https://doi.org/10.5281/zenodo.17073723)
 ## 🙌 Acknowledgements
 
 We thank the PLOS ONE editorial team and reviewers for emphasizing best practices in reproducible research.
